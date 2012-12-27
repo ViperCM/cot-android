@@ -33,15 +33,23 @@
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
-  <project path="device/amazon/otter" name="ProjectOpenCannibal/android_device_amazon_otter"
+  <project path="device/amazon/otter" name="ProjectOpenCannibal/android_device_amazon_otter" />
+  <project path="device/asus/grouper" name="ProjectOpenCannibal/android_device_asus_grouper" remote="github" revision="master" />
+  <project path="device/bn/acclaim" name="ProjectOpenCannibal/android_device_bn_acclaim" />
+  <project path="device/bn/encore" name="ProjectOpenCannibal/android_device_bn_encore" remote="github" revision="gingerbread" />
   <project path="device/generic/armv7-a-neon" name="CyanogenMod/android_device_generic_armv7-a-neon" />
   <project path="device/generic/armv7-a" name="CyanogenMod/android_device_generic_armv7-a" />
   <project path="device/generic/goldfish" name="CyanogenMod/android_device_generic_goldfish" />
   <project path="device/google/accessory/arduino" name="CyanogenMod/android_device_google_accessory_arduino" />
   <project path="device/google/accessory/demokit" name="CyanogenMod/android_device_google_accessory_demokit" />
+  <project path="device/htc/inc" name="ProjectOpenCannibal/android_device_htc_inc" remote="github" revision="gingerbread" />
+  <project path="device/htc/primoc" name="ProjectOpenCannibal/android_device_htc_primoc" />
   <project path="device/lge/ls840" name="ViperDevs/android_device_lge_ls840" remote="github" revision="ics" />
+  <project path="device/lge/m3s" name="ProjectOpenCannibal/android_device_lge_m3s" remote="github" revision="gingerbread" />
   <project path="device/lge/thunderc" name="ProjectOpenCannibal/android_device_lge_thunderc" remote="github" revision="ics19" />
+  <project path="device/samsung/crespo4g" name="ProjectOpenCannibal/android_device_samsung_crespo4g" remote="github" revision="gingerbread" />
   <project path="device/samsung/toroplus" name="ProjectOpenCannibal/android_device_samsung_toroplus" />
+  <project path="device/samsung/tuna" name="ProjectOpenCannibal/android_device_samsung_tuna" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
   <project path="device/samsung/d2spr" name="ProjectPanda/android_device_samsung_d2spr" />
   <project path="device/ti/panda" name="CyanogenMod/android_device_ti_panda" />
