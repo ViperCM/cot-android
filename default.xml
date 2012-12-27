@@ -40,6 +40,7 @@
   <project path="device/google/accessory/demokit" name="CyanogenMod/android_device_google_accessory_demokit" />
   <project path="device/lge/ls840" name="ViperDevs/android_device_lge_ls840" remote="github" revision="ics" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
+  <project path="device/samsung/d2spr" name="ProjectPanda/android_device_samsung_d2spr" />
   <project path="device/ti/panda" name="CyanogenMod/android_device_ti_panda" />
   <project path="docs/source.android.com" name="CyanogenMod/android_docs_source.android.com" />
   <project path="external/aac" name="CyanogenMod/android_external_aac" />
