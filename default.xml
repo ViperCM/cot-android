@@ -33,12 +33,15 @@
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
+  <project path="device/amazon/otter" name="ProjectOpenCannibal/android_device_amazon_otter"
   <project path="device/generic/armv7-a-neon" name="CyanogenMod/android_device_generic_armv7-a-neon" />
   <project path="device/generic/armv7-a" name="CyanogenMod/android_device_generic_armv7-a" />
   <project path="device/generic/goldfish" name="CyanogenMod/android_device_generic_goldfish" />
   <project path="device/google/accessory/arduino" name="CyanogenMod/android_device_google_accessory_arduino" />
   <project path="device/google/accessory/demokit" name="CyanogenMod/android_device_google_accessory_demokit" />
   <project path="device/lge/ls840" name="ViperDevs/android_device_lge_ls840" remote="github" revision="ics" />
+  <project path="device/lge/thunderc" name="ProjectOpenCannibal/android_device_lge_thunderc" remote="github" revision="ics19" />
+  <project path="device/samsung/toroplus" name="ProjectOpenCannibal/android_device_samsung_toroplus" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
   <project path="device/samsung/d2spr" name="ProjectPanda/android_device_samsung_d2spr" />
   <project path="device/ti/panda" name="CyanogenMod/android_device_ti_panda" />
