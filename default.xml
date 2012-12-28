@@ -48,6 +48,7 @@
   <project path="device/lge/m3s" name="ProjectOpenCannibal/android_device_lge_m3s" remote="github" revision="gingerbread" />
   <project path="device/lge/thunderc" name="ProjectOpenCannibal/android_device_lge_thunderc" remote="github" revision="ics19" />
   <project path="device/samsung/crespo4g" name="ProjectOpenCannibal/android_device_samsung_crespo4g" remote="github" revision="gingerbread" />
+  <project name="thenameisnigel/android_device_samsung_d710" path="device/samsung/d710" remote="github" revision="ics" />
   <project path="device/samsung/toroplus" name="ProjectOpenCannibal/android_device_samsung_toroplus" />
   <project path="device/samsung/tuna" name="ProjectOpenCannibal/android_device_samsung_tuna" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
@@ -245,6 +246,7 @@
   <project path="hardware/ti/omap4xxx" name="CyanogenMod/android_hardware_ti_omap4xxx" />
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" />
+  <project name="EpicAOSP/android_kernel_samsung_smdk4210_new" path="kernel/samsung/d710" remote="github" revision="ics" />
   <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="libnativehelper" name="CyanogenMod/android_libnativehelper" />
   <project path="ndk" name="CyanogenMod/android_ndk" />
@@ -347,6 +349,7 @@
   <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" />
   <project path="vendor/lge" name="ProjectVendor/proprietary_vendor_lge" remote="github" revision="ics" />
   <project path="vendor/qcom/opensource/v8" name="CyanogenMod/android_vendor_qcom_opensource_v8" />
+  <project path="vendor/samsung" name="ProjectVendor/proprietary_vendor_samsung" remote="github" revision="ics" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
