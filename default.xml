@@ -42,6 +42,7 @@
   <project path="device/generic/goldfish" name="CyanogenMod/android_device_generic_goldfish" />
   <project path="device/google/accessory/arduino" name="CyanogenMod/android_device_google_accessory_arduino" />
   <project path="device/google/accessory/demokit" name="CyanogenMod/android_device_google_accessory_demokit" />
+  <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" remote="github" revision="gingerbread" />
   <project path="device/htc/inc" name="ProjectOpenCannibal/android_device_htc_inc" remote="github" revision="gingerbread" />
   <project path="device/htc/primoc" name="ProjectOpenCannibal/android_device_htc_primoc" />
   <project path="device/lge/ls840" name="thenameisnigel/android_device_lge_ls840" remote="github" revision="cotr_build" />
