@@ -26,7 +26,7 @@
   <project path="bionic" name="CyanogenMod/android_bionic" />
   <project path="bootable/bootloader/legacy" name="CyanogenMod/android_bootable_bootloader_legacy" />
   <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
-  <project path="bootable/recovery" name="ProjectOpenCannibal/android_bootable_recovery" remote="github" revision="jellybean-dev_layout-wip" />
+  <project path="bootable/recovery" name="ProjectOpenCannibal/android_bootable_recovery" remote="github" revision="jellybean" />
   <project path="bootable/recovery/gui" name="ProjectOpenCannibal/android_bootable_recovery_gui" remote="github" revision="jellybean" />
   <project path="bootable/recovery/res" name="ProjectOpenCannibal/android_bootable_recovery_res" remote="github" revision="master" />  
   <project path="cts" name="CyanogenMod/android_cts" />
