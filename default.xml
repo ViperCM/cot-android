@@ -50,7 +50,7 @@
   <project path="device/samsung/toroplus" name="ProjectOpenCannibal/android_device_samsung_toroplus" />
   <project path="device/samsung/tuna" name="ProjectOpenCannibal/android_device_samsung_tuna" />
   <project path="device/samsung/d710" name="dastin1015/android_device_samsung_d710" remote="github" revision="cm-10.1" />
-  <project path="device/samsung/galaxys2-common" name="dastin1015/android_device_samsung_galaxys2-common" remote="github" revision="cm-10.1" />
+  <project path="device/samsung/galaxys2-common" name="ProjectOpenCannibal/android_device_samsung_galaxys2-common" remote="github" revision="cm-10.1" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" groups="device" />
   <project path="device/ti/panda" name="CyanogenMod/android_device_ti_panda" groups="device" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="jb-mr1-release" />
